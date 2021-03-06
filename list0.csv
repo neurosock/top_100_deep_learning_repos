@@ -1,0 +1,101 @@
+type,name,language,description,starsandforks,stars,forks
+Framework,tensorflow,C++,"An Open Source Machine Learning Framework for Everyone",⭐140574🔱79704,140574,79704
+Simplified API,keras,Python,"Deep Learning for humans",⭐46627🔱17671,46627,17671
+Library,opencv,C++,"Open Source Computer Vision Library",⭐41817🔱32255,41817,32255
+Learning material,DeepLearning-500-questions,None,"深度学习500问 Deep learning 500 questions, in the form of question and answer …",⭐36349🔱11201,36349,11201
+Notebook,TensorFlow-Examples,Jupyter Notebook,"TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",⭐36173🔱13657,36173,13657
+Framework,pytorch,C++,"Tensors and Dynamic neural networks in Python with strong GPU acceleration",⭐35719🔱8990,35719,8990
+Framework,caffe,C++,"Caffe: a fast open framework for deep learning.",⭐29775🔱18028,29775,18028
+Tool,faceswap,Python,"Deepfakes Software For All",⭐28863🔱9258,28863,9258
+Learning material,100-Days-Of-ML-Code,Python,"100 Days of ML Coding",⭐27766🔱6943,27766,6943
+Learning material,deeplearningbook-chinese,TeX,"Deep Learning Book Chinese Translation",⭐27753🔱8098,27753,8098
+Learning material,Deep-Learning-Papers-Reading-Roadmap,Python,"Deep Learning papers reading roadmap for anyone who are eager to learn this …",⭐25457🔱5818,25457,5818
+Notebook,practicalAI,Jupyter Notebook,"A practical approach to machine learning.",⭐23437🔱4171,23437,4171
+Learning material,machine-learning-for-software-engineers,None,"A complete daily plan for studying to become a machine learning engineer.",⭐23326🔱5466,23326,5466
+Learning material,AiLearning,Python,"We are ApacheCN Open Source Organization! We are fans of AI 机器学习",⭐22923🔱7996,22923,7996
+Library,Detectron,Python,"FAIR's research platform for object detection research, implementing popular …",⭐22754🔱5016,22754,5016
+Learning material,awesome-deep-learning-papers,TeX,"The most cited deep learning papers",⭐20574🔱3987,20574,3987
+Notebook,handson-ml,Jupyter Notebook,"A series of Jupyter notebooks that walk you through the fundamentals of Machi…",⭐18622🔱10022,18622,10022
+Framework,incubator-mxnet,Python,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic,…",⭐18344🔱6528,18344,6528
+Notebook,data-science-ipython-notebooks,Python,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Kera …",⭐17947🔱5528,17947,5528
+Simplified API,fastai,Jupyter Notebook,"The fastai deep learning library, plus lessons and tutorials",⭐17001🔱6029,17001,6029
+Framework,CNTK,C++,"Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",⭐16658🔱4420,16658,4420
+Framework,darknet,C,"Convolutional Neural Networks",⭐16203🔱10402,16203,10402
+Learning material,d2l-zh,Python,"«Hands-on Deep Learning»: for Chinese readers, capable of operation and disc …",⭐15910🔱4061,15910,4061
+Library,openpose,C++,"OpenPose: Real-time multi-person keypoint detection library for body, face, …",⭐15825🔱4682,15825,4682
+Library,spaCy,Python,"Industrial-strength Natural Language Processing (NLP) with Python and Cython",⭐15643🔱2755,15643,2755
+Library,Mask_RCNN,Python,"Mask R-CNN for object detection and instance segmentation on Keras and TensorF…",⭐15583🔱7251,15583,7251
+Example code,ML-From-Scratch,Python,"Machine Learning From Scratch. Bare bones NumPy implementations of machine …",⭐15327🔱2935,15327,2935
+Learning material,pytorch-tutorial,Python,"PyTorch Tutorial for Deep Learning Researchers",⭐15314🔱4813,15314,4813
+Tool,Real-Time-Voice-Cloning,Python,"Clone a voice in 5 seconds to generate arbitrary speech in real-time",⭐15014🔱2651,15014,2651
+Notebook,100-Days-Of-ML-Code,Jupyter Notebook,"100-Days-Of-ML-Code中文版",⭐14977🔱4170,14977,4170
+Learning material,awesome-deep-learning,None,"A curated list of awesome Deep Learning tutorials, projects and communities.",⭐14565🔱4592,14565,4592
+Learning material,lectures,None,"Oxford Deep NLP 2017 course",⭐14411🔱3477,14411,3477
+Learning material,TensorFlow-Course,Python,"Simple and ready-to-use tutorials for TensorFlow",⭐13938🔱2782,13938,2782
+Learning material,Qix,None,"Machine Learning, Deep Learning, PostgreSQL, Distributed System, Node.Js, Golang",⭐13091🔱4701,13091,4701
+Learning material,cheatsheets-ai,None,"Essential Cheat Sheets for deep learning and machine learning researchers",⭐13068🔱3175,13068,3175
+Library,openface,Lua,"Face recognition with deep neural networks.",⭐13043🔱3260,13043,3260
+Library,DeepSpeech,C++,"A TensorFlow implementation of Baidu's DeepSpeech architecture",⭐12951🔱2417,12951,2417
+Framework,tfjs,TypeScript,"A WebGL accelerated JavaScript library for training and deploying ML models.",⭐12566🔱1040,12566,1040
+Tool,Screenshot-to-code,HTML,"A neural network that transforms a design mock-up into a static website.",⭐12397🔱1226,12397,1226
+Tool,DeepFaceLab,Python,"DeepFaceLab is the leading software for creating deep fakes.",⭐12237🔱2802,12237,2802
+Notebook,deeplearning-models,Jupyter Notebook,"A collection of various deep learning architectures, models, and tips",⭐11483🔱2678,11483,2678
+Framework,deeplearning4j,Java,"Eclipse Deeplearning4j, ND4J, DataVec etc - deep learning & linear algebra for…",⭐11454🔱4803,11454,4803
+Repository,awesome-datascience,None,"An awesome Data Science repository to learn and apply for real world problems.",⭐10992🔱3237,10992,3237
+Paper code,pytorch-CycleGAN-and-pix2pix,Python,"Image-to-Image Translation in PyTorch",⭐10911🔱3141,10911,3141
+Paper code,pix2code,Python,"pix2code: Generating Code from a Graphical User Interface Screenshot",⭐10709🔱1160,10709,1160
+Example code,neural-networks-and-deep-learning,Python,"Code samples for my book «Neural Networks and Deep Learning»",⭐10687🔱5046,10687,5046
+Framework,Paddle,C++,"『飞桨』核心框架 PArallel Distributed Deep LEarning: Machine Learning Framework f…",⭐10676🔱2823,10676,2823
+Learning material,nndl.github.io,HTML,"Neural network and deep learning By Qiu Xipeng 《神经网络与深度学习》",⭐10517🔱2356,10517,2356
+Framework,ray,Python,"A fast and simple framework for building and running distributed applications…",⭐10248🔱1484,10248,1484
+Notebook,pytorch-handbook,Jupyter Notebook,"pytorch handbook 是一本开源的书籍",⭐10163🔱3056,10163,3056
+Paper code,FastPhotoStyle,Python,"Style transfer, deep learning, feature transform",⭐10052🔱1041,10052,1041
+Paper code,facenet,Python,"Face recognition using Tensorflow",⭐9965🔱4055,9965,4055
+Example code,char-rnn,Lua,"Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level …",⭐9953🔱2370,9953,2370
+Learning material,Machine-Learning-Tutorials,None,"machine learning and deep learning tutorials, articles and other resources",⭐9920🔱3029,9920,3029
+Framework,convnetjs,JavaScript,"Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary…",⭐9888🔱1976,9888,1976
+Learning material,stanford-cs-229-machine-learning,None,"VIP cheatsheets for Stanford's CS 229 Machine Learning",⭐9888🔱2402,9888,2402
+Tool,neural-enhance,Python,"Super Resolution for images using deep learning.",⭐9868🔱1118,9868,1118
+NSFW,nsfw_data_scraper,Shell,"Collection of scripts to aggregate image data for the purposes of training an …",⭐9853🔱2605,9853,2605
+Learning material,awesome-nlp,None,"A curated list of resources dedicated to Natural Language Processing (NLP)",⭐9846🔱1822,9846,1822
+Learning material,dive-into-machine-learning,None,"Dive into Machine Learning with Python Jupyter notebook and scikit-learn!",⭐9786🔱1817,9786,1817
+Library,spleeter,Python,"Deezer source separation library including pretrained models.",⭐9752🔱853,9752,853
+Tool,labelImg,Python,"LabelImg is a graphical image annotation tool and label object bounding boxes …",⭐9635🔱3282,9635,3282
+Repository,tensor2tensor,Python,"Library of deep learning models and datasets designed to make deep learning …",⭐9522🔱2456,9522,2456
+Tool,CycleGAN,Lua,"Software that can generate photos from paintings, turn horses into zebras, …",⭐9419🔱1575,9419,1575
+Example code,stanford-tensorflow-tutorials,Python,"This repository contains code examples for the Stanford's course: TensorFlow …",⭐9377🔱4273,9377,4273
+Simplified API,tflearn,Python,"Deep learning library featuring a higher-level API for TensorFlow.",⭐9363🔱2396,9363,2396
+Notebook,deep-learning-with-python-notebooks,Jupyter Notebook,"Jupyter notebooks for the code samples of the book «Deep Learning with Python»",⭐9349🔱4607,9349,4607
+Simplified API,turicreate,C++,"Turi Create simplifies the development of custom machine learning models.",⭐9331🔱949,9331,949
+Notebook,learnopencv,Jupyter Notebook,"Learn OpenCV : C++ and Python Examples",⭐9264🔱6080,9264,6080
+Tool,DeOldify,Jupyter Notebook,"A Deep Learning based project for colorizing and restoring old images (and vid…",⭐8949🔱988,8949,988
+Learning material,Awesome-pytorch-list,None,"A comprehensive list of pytorch related content on github,such as different …",⭐8917🔱1954,8917,1954
+NSFW,DeepCreamPy,Python,"Decensoring Hentai with Deep Neural Networks",⭐8874🔱961,8874,961
+Learning material,awesome-deep-vision,None,"A curated list of deep learning resources for computer vision",⭐8842🔱2586,8842,2586
+Tool,fast-style-transfer,Python,"TensorFlow CNN for fast style transfer",⭐8667🔱2160,8667,2160
+Learning material,EffectiveTensorflow,None,"TensorFlow 1.x and 2.x tutorials and best practices.",⭐8566🔱964,8566,964
+Framework,tfjs-core,TypeScript,"WebGL-accelerated ML // linear algebra // automatic differentiation for Java…",⭐8561🔱988,8561,988
+Framework,dlib,C++,"A toolkit for making real world machine learning and data analysis applicatio…",⭐8546🔱2547,8546,2547
+Framework,horovod,Python,"Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet",⭐8517🔱1330,8517,1330
+Framework,caffe2,Shell,"Caffe2 is a lightweight, modular, and scalable deep learning framework.",⭐8482🔱2096,8482,2096
+Learning material,conv_arithmetic,TeX,"A technical report on convolution arithmetic in the context of deep learning",⭐8169🔱1591,8169,1591
+Simplified API,sonnet,Python,"TensorFlow-based neural network library",⭐8138🔱1182,8138,1182
+Framework,ncnn,C++,"ncnn is a high-performance neural network inference framework optimized for …",⭐8071🔱2128,8071,2128
+Tool,imgaug,Python,"Image augmentation for machine learning experiments.",⭐8013🔱1603,8013,1603
+Learning material,TensorFlow-Tutorials,Jupyter Notebook,"TensorFlow Tutorials with YouTube Videos",⭐8007🔱3922,8007,3922
+Library,libfacedetection,C++,"An open source library for face detection in images. The face detection speed …",⭐7971🔱2267,7971,2267
+Library,allennlp,Python,"An open-source NLP research library, built on PyTorch.",⭐7949🔱1707,7949,1707
+Example code,MLAlgorithms,Python,"Minimal and clean examples of machine learning algorithms implementations",⭐7907🔱1424,7907,1424
+Tool,netron,JavaScript,"Visualizer for neural network, deep learning and machine learning models",⭐7882🔱959,7882,959
+Explainability,shap,Jupyter Notebook,"A game theoretic approach to explain the output of any machine learning model.",⭐7792🔱1091,7792,1091
+Framework,onnx,PureBasic,"Open Neural Network Exchange",⭐7792🔱1281,7792,1281
+Library,ml-agents,Python,"Unity Machine Learning Agents Toolkit",⭐7685🔱2052,7685,2052
+Learning material,mit-deep-learning-book-pdf,Java,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, …",⭐7534🔱1845,7534,1845
+Paper code,pix2pix,Lua,"Image-to-image translation with conditional adversarial nets",⭐7423🔱1289,7423,1289
+Learning material,deep-learning-drizzle,None,"Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, …",⭐7284🔱1694,7284,1694
+Repository,fashion-mnist,Python,"A MNIST-like fashion product database. Benchmark",⭐7160🔱1564,7160,1564
+Learning material,deep_learning_object_detection,None,"A paper list of object detection using deep learning.",⭐7139🔱2009,7139,2009
+Notebook,Dive-into-DL-PyTorch,Jupyter Notebook,"《动手学深度学习》This project changes the MXNet implementation in the book «Dive …",⭐7092🔱2054,7092,2054
+Notebook,mit-deep-learning,Jupyter Notebook,"Tutorials, assignments, and competitions for MIT Deep Learning related courses.",⭐6899🔱1543,6899,1543
+Notebook,recommenders,Jupyter Notebook,"Best Practices on Recommendation Systems",⭐6899🔱977,6899,977
+Learning material,Deep-Learning-with-TensorFlow-book,Python,"深度学习入门开源书 Open source Deep Learning book, based on TensorFlow 2.0 frame…",⭐6771🔱1848,6771,1848
